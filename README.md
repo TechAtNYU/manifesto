@@ -2,8 +2,9 @@ The Tech@NYU Manifesto
 ======================
 
 ######Changelog: 
-2012-05-14 - Vivek Patel - <1.vivekpatel@gmail.com> - first commit
-2012-10-09 - Vivek Patel - <1.vivekpatel@gmail.com> - trimmed and adapted to feedback from board retreat
+
+- 2012-05-14 - Vivek Patel - <1.vivekpatel@gmail.com> - first commit
+- 2012-10-09 - Vivek Patel - <1.vivekpatel@gmail.com> - trimmed and adapted to feedback from board retreat
 
 
 ###Preface
