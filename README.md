@@ -95,3 +95,11 @@ Tips from past presidents:
 You are the beacons for this movement. We do what we can to help you, and vice versa. You provide the resources and context for us to impart change on a massive scale.
 
 We meet twice a year to discuss strategy and how to clear any roadblocks. The Chair is the interface between advisors, alumni and the organization.
+
+
+
+---
+
+Acknowledgements
+----------------
+Thank you to all of our advisors, alumni, and community members that help and guide us every day. This manifesto is dedicated to anyone and everyone who has contributed to this vibrant culture.
