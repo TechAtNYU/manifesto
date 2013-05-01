@@ -5,7 +5,8 @@ The Tech@NYU Manifesto
 
 - 2012-05-14 - Vivek Patel - <1.vivekpatel@gmail.com> - first commit
 - 2012-10-09 - Vivek Patel - <1.vivekpatel@gmail.com> - trimmed and adapted to feedback from board retreat
-
+- 2012-04-30 - Vivek Patel - <1.vivekpatel@gmail.com> - added in
+  presidential voting eligibility
 
 ###Preface
 This document is a compilation of the collective thoughts and notes of the future leaders in innovation. It serves as a living, breathing document that greets newcomers, reminds alumni, orients associates, aligns officers, and guides future presidents. The problem with student organizations is organizational memory. Documentation serves to address this problem. This evolves with the organization.
@@ -57,6 +58,9 @@ Tech@NYU is a flat network. We have a President that sets a pace and direction, 
 
 Tech@NYU also does not have formal membership. Anyone who has attended a Tech@NYU event may be considered a member. There are few executive board members and a vast number of members. A member is someone who has contributed to the community and culture.
 
+To vote for president, a executive board member must either (1) lead an
+initiative, or (2) be on the executive board for at least one whole
+semester.
 
 ---
 
@@ -84,7 +88,7 @@ It is strongly encouraged this be a 1.5 year commitment. In the last semester, t
 
 Tips from past presidents:
 
-**'09-'10**: Trevor - //TODO
+**'09-'10**: Trevor - Move fast. Network hard. Give people the benefit of the doubt & give them the shot to make a legacy. Always remember Tech@NYU is #1 and accept nothing less than #1. You have nothing to lose.
 
 **'10-'11**: Ben - //TODO
 
