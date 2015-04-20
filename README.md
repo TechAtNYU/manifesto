@@ -60,7 +60,7 @@ Tech@NYU also does not have formal membership. Anyone who has attended a Tech@NY
 
 To vote for president, a executive board member must either (1) lead an
 initiative, or (2) be on the executive board for at least one whole
-semester. The current president cannot vote, to avoid any conflicts of interest.
+semester. To avoid any conflicts of interest, the current president cannot vote, except to break a tie.
 
 ---
 
